@@ -79,6 +79,13 @@ This form is designed to collect inquiries from customers interested in **new or
 
 ---
 
+## ✅ 5. Sample screenshots
+
+![image](https://github.com/user-attachments/assets/4b9de70b-3ea4-43c6-ba35-8f38376f2d9b)
+![image](https://github.com/user-attachments/assets/7108c83a-c647-4783-97bf-a0b6db43db2f)
+
+---
+
 ## 📎 Future Enhancements (Optional)
 
 - Upload ID proof or driving license
