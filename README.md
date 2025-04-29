@@ -91,7 +91,8 @@ This form is designed to collect inquiries from customers interested in **new or
 
 ## References
 
-1. [Conditional Validation](https://stackoverflow.com/questions/49394391/conditional-validation-in-yup)
+1. [Conditional Validation Yup](https://stackoverflow.com/questions/49394391/conditional-validation-in-yup)
+2. [Yup Samples](https://www.techzaion.com/validation-with-yup)
 ---
 
 ## 📎 Future Enhancements (Optional)
