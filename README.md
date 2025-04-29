@@ -89,6 +89,11 @@ This form is designed to collect inquiries from customers interested in **new or
 
 ---
 
+## References
+
+1. [Conditional Validation](https://stackoverflow.com/questions/49394391/conditional-validation-in-yup)
+---
+
 ## 📎 Future Enhancements (Optional)
 
 - Upload ID proof or driving license
