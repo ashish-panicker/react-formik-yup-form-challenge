@@ -7,7 +7,6 @@ export default function CarInquiryForm () {
   return (
     <div className="max-w-2xl mx-auto mt-10 p-6 bg-white rounded-2xl shadow-lg">
       <h1 className="text-2xl font-bold mb-6">Car Dealership Inquiry Form</h1>
-
       <Formik
         initialValues={{
           inquiryType: '',
